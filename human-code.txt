@@ -16,8 +16,7 @@ Fare la spesa seguendo una lista
     * No: 
         - Aggiungi Contanti
 
-6. Ho contanti rimanenti? 
-    * Sì: 
-        - Compro Snack
+6. Se ho contanti rimanenti: 
+    * Compro Snack 
 
 7. Completo Pagamento
